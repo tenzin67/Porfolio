@@ -57,7 +57,7 @@ export default function Welcome() {
 
                     {/* 4. UI/UX DESIGN CATEGORY (Row 2) */}
                     <Link href={route('projects.design')} className="col-span-1 md:col-span-2 block h-full">
-                        <BentoCard title="Design" className="h-full bg-japan-ink text-white cursor-pointer group hover:bg-japan-charcoal transition-colors">
+                        <BentoCard title="Design" className="h-full bg-japan-ink text-white cursor-pointer bg-japan-charcoal/90 transition-colors">
                              <div className="flex flex-col h-full justify-between">
                                 <div>
                                     <h3 className="text-3xl font-bold text-white mb-3">

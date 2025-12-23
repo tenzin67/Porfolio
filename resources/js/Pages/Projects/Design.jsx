@@ -20,10 +20,10 @@ export default function Design() {
                         <BentoCard title="UI Framework" className="md:col-span-2 bg-japan-ink text-white">
                              <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
                                 <div>
-                                    <h3 className="text-2xl font-bold text-white mb-2">
+                                    <h3 className="text-2xl font-bold text-black mb-2">
                                         Department of Home Website
                                     </h3>
-                                    <p className="text-white/70 max-w-xl font-light">
+                                    <p className="text-japan-charcoal/80 max-w-xl font-light">
                                         Designed the complete website structure, navigation, and page hierarchy in Figma before development. Built a reusable component system that streamlined the eventual React implementation.
                                     </p>
                                 </div>
