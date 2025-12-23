@@ -27,7 +27,7 @@ export default function Design() {
                                         Designed the complete website structure, navigation, and page hierarchy in Figma before development. Built a reusable component system that streamlined the eventual React implementation.
                                     </p>
                                 </div>
-                                <span className="text-xs font-mono text-white/50 border border-white/20 px-3 py-1 rounded">
+                                <span className="text-xs font-mono text-japan-stone bg-japan-light-gray/30 px-2 py-1 rounded">
                                     FIGMA SYSTEM
                                 </span>
                             </div>
